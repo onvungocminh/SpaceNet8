@@ -1,5 +1,6 @@
 *Some brainstormed todo (feel free to add):*
 
+
 * Baseline implementation (network, preprocessing, postprocessing)
 * Building/road detection network(s)
 * Flooded pixels segmentation
